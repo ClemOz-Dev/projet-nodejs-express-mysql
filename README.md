@@ -1,2 +1,4 @@
 # projet-nodejs-express-mysql
-npm install
+npm install to setup dependencies
+
+node server.js to run server
